@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## About
 - 🎓 Computer Science Graduate (BSc)
 - 🌟 Favourite Data Structure: Binary Heap
+- <img src="assets/leetcode.png" alt="Leetcode Logo" width="30" height="30"> [Leetcode](https://leetcode.com/u/Christopher1337/)
 
 | Python | C | C#| JavaScript| HTML| CSS|Java|C++|
 |----------|----------|----------|----------|----------|----------|----------|----------|
