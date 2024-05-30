@@ -34,3 +34,6 @@ https://chrisstewart132.github.io/gymV2/
 
 ## Unicode Website
 https://chrisstewart132.github.io/Unicode-website
+
+## Algorithms (WIP)
+https://chrisstewart132.github.io/Website/algorithms.html
