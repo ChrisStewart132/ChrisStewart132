@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## rpi_PCD8544_Nokia_5110_Display_Demo
 https://github.com/ChrisStewart132/rpi_PCD8544_Nokia_5110_Display
 
-![rpi_PCD8544_Nokia_5110_Display_Demo](assets/gifs/rpi_PCD8544_Nokia_5110_Display_Demo.gif) !![rpi_PCD8544_Nokia_5110_Display_Demo2](assets/gifs/rpi_PCD8544_Nokia_5110_Display_Demo2.gif)
+![rpi_PCD8544_Nokia_5110_Display_Demo](assets/gifs/rpi_PCD8544_Nokia_5110_Display_Demo.gif) ![rpi_PCD8544_Nokia_5110_Display_Demo2](assets/gifs/rpi_PCD8544_Nokia_5110_Display_Demo2.gif)
 
 ## AStarPathFinding_Demo
 https://github.com/ChrisStewart132/AStarPathFinding
