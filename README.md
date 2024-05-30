@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## About
 - 🎓 Computer Science Graduate (BSc)
+- 🤓 Favourite Data Structure: Binary Heap
 
 | Python | C | C#| JavaScript| HTML| CSS|Java|C++|
 |----------|----------|----------|----------|----------|----------|----------|----------|
