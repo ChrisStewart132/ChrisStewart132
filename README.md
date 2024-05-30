@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## About
 - 🎓 Computer Science Graduate (BSc)
 - 🌟 Favourite Data Structure: Binary Heap
-- <img src="assets/icons/leetcode.png" alt="Leetcode Logo" width="30" height="30" style="max-width: 100%; vertical-align:middle; padding:1px"> [Leetcode](https://leetcode.com/u/Christopher1337/)
+- <img src="assets/icons/leetcode.png" alt="Leetcode Logo" width="20" height="20"> [Leetcode](https://leetcode.com/u/Christopher1337/)
 
 | Python | C | C#| JavaScript| HTML| CSS|Java|C++|
 |----------|----------|----------|----------|----------|----------|----------|----------|
