@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 - 🎓 Computer Science Graduate (BSc)
 - 🌟 Favourite Data Structure: Binary Heap
 -  <img src="assets/icons/leetcode.png" alt="Leetcode Logo" width="15" height="15"> [Leetcode](https://leetcode.com/u/Christopher1337/)
-- 🌱 I’m currently learning about nRF24L01 2.4Ghz RF(radio) communication.
 
 | Python | C | C#| JavaScript| HTML| CSS|Java|C++|
 |----------|----------|----------|----------|----------|----------|----------|----------|
