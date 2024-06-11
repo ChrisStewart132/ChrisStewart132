@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ## rpi_ST7735S_LCD
 https://github.com/ChrisStewart132/rpi_ST7735S_LCD
 
-![ST7735S_LCD_rpi_setup_demo](assets/gifs/ST7735S_LCD_rpi_setup_demo.gif) ![ST7735S_LCD_rpi_demo_2bit_gray](assets/gifs/ST7735S_LCD_rpi_demo_2bit_gray.gif) ![ST7735S_LCD_rpi_demo](assets/gifs/ST7735S_LCD_rpi_demo.gif)
+![ST7735S_LCD_rpi_setup_demo](assets/gifs/ST7735S_LCD_rpi_setup_demo.gif) ![ST7735S_LCD_rpi_demo_2bit_gray](assets/gifs/ST7735S_LCD_rpi_demo_2bit_gray.gif) ![ST7735S_LCD_rpi_demo_2bit_gray](assets/gifs/ST7735S_LCD_rpi_demo_8bit_gray.gif) ![ST7735S_LCD_rpi_demo](assets/gifs/ST7735S_LCD_rpi_demo.gif)
 
 
 ## rpi_PCD8544_Nokia_5110_Display_Demo
