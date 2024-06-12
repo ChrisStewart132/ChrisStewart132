@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 
 ## NRF24L01 
 https://github.com/ChrisStewart132/NRF24L01_RF
+
 ![NRF24L01_single_rpi_2_rf_4bitgrayscale](assets/gifs/NRF24L01_single_rpi_2_rf_4bitgrayscale.gif)
 
 ## rpi_ST7735S_LCD
