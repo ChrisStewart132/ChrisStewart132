@@ -29,13 +29,13 @@ https://github.com/ChrisStewart132/NRF24L01_RF
 
 ![NRF24L01_single_rpi_2_rf_4bitgrayscale](assets/gifs/NRF24L01_single_rpi_2_rf_4bitgrayscale.gif)
 
-## rpi_ST7735S_LCD
+## rpi_ST7735S_LCD (128x160 picamera recording(s))
 https://github.com/ChrisStewart132/rpi_ST7735S_LCD
 
 ![ST7735S_LCD_rpi_setup_demo](assets/gifs/ST7735S_LCD_rpi_setup_demo.gif) ![ST7735S_LCD_rpi_demo_2bit_gray](assets/gifs/ST7735S_LCD_rpi_demo_2bit_gray.gif) ![ST7735S_LCD_rpi_demo_2bit_gray](assets/gifs/ST7735S_LCD_rpi_demo_8bit_gray.gif) ![ST7735S_LCD_rpi_demo](assets/gifs/ST7735S_LCD_rpi_demo.gif)
 
 
-## rpi_PCD8544_Nokia_5110_Display_Demo
+## rpi_PCD8544_Nokia_5110_Display_Demo (84x48 binary threshold picamera recording(s))
 https://github.com/ChrisStewart132/rpi_PCD8544_Nokia_5110_Display
 
 ![rpi_PCD8544_Nokia_5110_Display_Demo](assets/gifs/rpi_PCD8544_Nokia_5110_Display_Demo.gif) ![rpi_PCD8544_Nokia_5110_Display_Demo2](assets/gifs/rpi_PCD8544_Nokia_5110_Display_Demo2.gif)
