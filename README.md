@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 ## NRF24L01 (raw 128x160 4bit grayscale at 24fps over 2.4Ghz Radio link)
 https://github.com/ChrisStewart132/NRF24L01_RF
 
-<img src="assets/gifs/nrf24l01_client-server.gif" width="200" height="100" alt="nrf24l01_client-server">
-
-![nrf24l01_client-server](assets/gifs/nrf24l01_client-server.gif) ![NRF24L01_single_rpi_2_rf_4bitgrayscale](assets/gifs/NRF24L01_single_rpi_2_rf_4bitgrayscale.gif)
+<img src="assets/gifs/nrf24l01_client-server.gif" width="400" height="200" alt="nrf24l01_client-server"> ![NRF24L01_single_rpi_2_rf_4bitgrayscale](assets/gifs/NRF24L01_single_rpi_2_rf_4bitgrayscale.gif)
 
 ## rpi_ST7735S_LCD (128x160 setup, 2bit gray, 8bit gray, 16bit rgb565 picamera recording(s))
 https://github.com/ChrisStewart132/rpi_ST7735S_LCD
