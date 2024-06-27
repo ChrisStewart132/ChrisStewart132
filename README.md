@@ -46,12 +46,15 @@ https://github.com/ChrisStewart132/AStarPathFinding
 
 ## Gym Website
 https://chrisstewart132.github.io/gymV2/
+
 ![repo](https://github.com/ChrisStewart132/gymV2)
 
 ## Unicode Website
 https://chrisstewart132.github.io/Unicode-website
+
 ![repo](https://github.com/ChrisStewart132/Unicode-website)
 
 ## Algorithms (WIP)
 https://chrisstewart132.github.io/Website/algorithms.html
+
 ![repo](https://github.com/ChrisStewart132/Website)
