@@ -43,6 +43,7 @@ https://github.com/ChrisStewart132/rpi_PCD8544_Nokia_5110_Display
 ## AStarPathFinding_Demo
 https://github.com/ChrisStewart132/AStarPathFinding
 ![AStarPathFinding_Demo](assets/gifs/AStarPathFinding_Demo.gif)
+![A_Star_Pathfinding_Unity_2D_Demo](assets/gifs/A_Star_Pathfinding_Unity_2D_Demo.gif)
 
 ## Gym Website
 https://chrisstewart132.github.io/gymV2/
