@@ -24,6 +24,12 @@ Here are some ideas to get you started:
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |  	<img src="assets/icons/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |	<img src="assets/icons/c-original.svg" title="C"  alt="C" width="55" height="55"/>  |	<img src="assets/icons/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|	<img src="assets/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|	<img src="assets/icons/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|	<img src="assets/icons/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|	<img src="assets/icons/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|	<img src="assets/icons/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>
 
+## ImageToImageCNN
+https://github.com/ChrisStewart132/pytorch_apps/tree/main/ImageToImageCNN
+![ImagetoImageCNN](https://github.com/user-attachments/assets/281ce335-da41-49d3-af54-c7af603b5a5d)
+https://github.com/user-attachments/assets/1fef5cf1-ce79-4e19-83bd-6c1445fd5be4
+
+
 ## ADXL335_GY_61 roll stabilization example
 https://github.com/ChrisStewart132/ADXL335_GY_61
 
