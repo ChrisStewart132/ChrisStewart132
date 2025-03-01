@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 ## ImageToImageCNN
 https://github.com/ChrisStewart132/pytorch_apps/tree/main/ImageToImageCNN
+
 ![ImagetoImageCNN](https://github.com/user-attachments/assets/281ce335-da41-49d3-af54-c7af603b5a5d)
+
 https://github.com/user-attachments/assets/1fef5cf1-ce79-4e19-83bd-6c1445fd5be4
 
 
