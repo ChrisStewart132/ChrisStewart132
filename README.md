@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 ## CNNObjectDetector
 [https://github.com/ChrisStewart132/pytorch_apps/tree/main/CNNObjectDetector](https://github.com/ChrisStewart132/pytorch_apps/tree/main/CNNObjectDetector)
 
+![CNNObjectDetector_Model](https://github.com/user-attachments/assets/50f9cf28-5752-4fde-b726-3487341243ce)
 
 https://github.com/user-attachments/assets/f0e6932e-7c58-474a-bc69-adce17eb6e7d
 
