@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 |  	<img src="assets/icons/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |	<img src="assets/icons/c-original.svg" title="C"  alt="C" width="55" height="55"/>  |	<img src="assets/icons/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|	<img src="assets/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|	<img src="assets/icons/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|	<img src="assets/icons/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|	<img src="assets/icons/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|	<img src="assets/icons/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>
 
 ## CNNObjectDetector
-[https://github.com/ChrisStewart132/pytorch_apps/tree/main/ImageToImageCNN](https://github.com/ChrisStewart132/pytorch_apps/tree/main/CNNObjectDetector)
+[https://github.com/ChrisStewart132/pytorch_apps/tree/main/CNNObjectDetector](https://github.com/ChrisStewart132/pytorch_apps/tree/main/CNNObjectDetector)
 
 
 https://github.com/user-attachments/assets/f0e6932e-7c58-474a-bc69-adce17eb6e7d
