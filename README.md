@@ -37,8 +37,7 @@ https://github.com/ChrisStewart132/pytorch_apps/tree/main/ImageToImageCNN
 
 ![ImagetoImageCNN](https://github.com/user-attachments/assets/281ce335-da41-49d3-af54-c7af603b5a5d)
 
-https://github.com/user-attachments/assets/1fef5cf1-ce79-4e19-83bd-6c1445fd5be4
-
+https://github.com/user-attachments/assets/c8537852-85ae-4cb8-970d-0ba29b03ba09
 
 ## ADXL335_GY_61 roll stabilization example
 https://github.com/ChrisStewart132/ADXL335_GY_61
