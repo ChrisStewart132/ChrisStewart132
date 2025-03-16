@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ![CNNObjectDetector_Model](https://github.com/user-attachments/assets/46e5004b-d0c7-4688-8cbd-251a3ec8f358)
 
-https://github.com/user-attachments/assets/c8537852-85ae-4cb8-970d-0ba29b03ba09
+https://github.com/user-attachments/assets/d3eef2e1-9e62-476a-aa49-2d9c574daf69
 
 
 ## ImageToImageCNN
