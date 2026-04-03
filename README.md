@@ -23,12 +23,8 @@ Here are some ideas to get you started:
 | Python | C | C#| JavaScript| HTML| CSS|Java|C++|
 |----------|----------|----------|----------|----------|----------|----------|----------|
 |  	<img src="assets/icons/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |	<img src="assets/icons/c-original.svg" title="C"  alt="C" width="55" height="55"/>  |	<img src="assets/icons/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/>|	<img src="assets/icons/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>|	<img src="assets/icons/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/>|	<img src="assets/icons/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>|	<img src="assets/icons/java-original.svg" title="Java" alt="Java" width="55" height="55"/>|	<img src="assets/icons/cplusplus-original.svg" title="C++" alt="C++" width="55" height="55"/>
-## Unity2d Ballistic Intrception (Project010326)
-![ballisticToballisticInterception](https://github.com/user-attachments/assets/23f5e999-7f83-46cd-b8ec-91b1fef8f774)
-![BallisticToRocket](https://github.com/user-attachments/assets/afb57ecb-2a79-4a99-a527-4daafa46df42)
-![RocketToballistic](https://github.com/user-attachments/assets/46de3bf0-7e5e-4037-8384-1d79699a21d9)
-![RocketToballistic2](https://github.com/user-attachments/assets/a60179e7-9a62-4f7b-ab5d-e574c3caef7d)
-![RocketToRocket](https://github.com/user-attachments/assets/60085b00-e980-4e40-a8ec-0f68127bf979)
+## Unity2d Ballistic Interception (Project010326)
+![ballisticToballisticInterception](https://github.com/user-attachments/assets/23f5e999-7f83-46cd-b8ec-91b1fef8f774)![BallisticToRocket](https://github.com/user-attachments/assets/afb57ecb-2a79-4a99-a527-4daafa46df42)![RocketToballistic](https://github.com/user-attachments/assets/46de3bf0-7e5e-4037-8384-1d79699a21d9)![RocketToballistic2](https://github.com/user-attachments/assets/a60179e7-9a62-4f7b-ab5d-e574c3caef7d)![RocketToRocket](https://github.com/user-attachments/assets/60085b00-e980-4e40-a8ec-0f68127bf979)
 
 ### https://ballistics.nullxeno.com/
 
